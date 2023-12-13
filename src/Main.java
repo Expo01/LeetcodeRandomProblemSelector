@@ -9,7 +9,7 @@ public class Main {
         problems.add(new Pair(20, "Valid parentheses"));
 //        problems.add(new Pair(21, "Merge two linked lists"));
 //        problems.add(new Pair(121, "best time to buy and sell a stock"));
-        problems.add(new Pair(125,"valid palindrome"));
+//        problems.add(new Pair(125,"valid palindrome"));
         problems.add(new Pair(226,"invert binary tree"));
 //        problems.add(new Pair(242,"valid anagram"));
 //        problems.add(new Pair(704,"binary search"));
@@ -20,7 +20,7 @@ public class Main {
 //        problems.add(new Pair(232,"implement queue using stack"));
 //        problems.add(new Pair(278,"first bad version"));
         problems.add(new Pair(383,"ransom note"));
-        problems.add(new Pair(70,"climbing stairs"));
+//        problems.add(new Pair(70,"climbing stairs"));
 //        problems.add(new Pair(409,"longest palindrome"));
 //        problems.add(new Pair(206,"reverse a linked list"));
         problems.add(new Pair(169,"majority element"));
@@ -45,7 +45,7 @@ public class Main {
         problems.add(new Pair(108,"converted sorted array to binary search tree"));
         problems.add(new Pair(190,"reverse bits"));
         problems.add(new Pair(572,"subtree of another tree"));
-        problems.add(new Pair(977,"squares of a sorted array"));
+//        problems.add(new Pair(977,"squares of a sorted array"));
 
 
         Random selector = new Random();
